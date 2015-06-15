@@ -1,0 +1,16 @@
+{
+  "name": "hellorestapipouchdb",
+  "version": "1.0.0",
+  "description": "\"A simple REST API sample based on express and pouchdb\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shailesh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "pouchdb": "^3.6.0"
+  }
+}
